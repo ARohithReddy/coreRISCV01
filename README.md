@@ -9,4 +9,5 @@ instructions implemented
 <li>U-type:   &ensp; lui, auipc </li>
 </ul>
 
+![image](https://github.com/ARohithReddy/coreRISCV01/assets/63339312/3645d993-103a-4ef4-b401-d48e8cea355e)
 ![image](https://github.com/ARohithReddy/coreRISCV01/assets/63339312/95ee449d-8efb-4494-8d1d-1de07a6a5423)
