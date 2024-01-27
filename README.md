@@ -1,5 +1,4 @@
 # coreRISCV01
-lan: TL Verilog <br/>
 instructions implemented
 <ul>
 <li>R-type:   &ensp; add, and, xor, or, sub, sll, slt, sltu, sra, srl </li>
